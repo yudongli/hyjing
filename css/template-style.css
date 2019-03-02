@@ -4,7 +4,7 @@
 body {
   font-family: "宋体";
   background: #fff;
-  background: url(../img/bg_white.gif) repeat left top;
+  xbackground: url(../img/bg_white.gif) repeat left top;
 }
 p {
   color: #777;
