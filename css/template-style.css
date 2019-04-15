@@ -74,6 +74,10 @@ h6.headline, .h6.headline {
   font-size: 20px !important;
   line-height: 1.4;
 }
+.text-size-22, .text-l-size-20 {
+  font-size: 22px !important;
+  line-height: 1.4;
+}
 .text-size-25, .text-l-size-25 {
   font-size: 25px !important;
   line-height: 1.4;
